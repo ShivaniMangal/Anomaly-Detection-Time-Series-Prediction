@@ -10,5 +10,5 @@
 • The training was split in batch size of 32 for 100 epochs. At the end of the 100th epoch the MSE loss was 2.3528e-04.
 
 
-
+![Image](ReadMe_Results_Images/Anomaly_Detection.png)
 Graph of predicted machine temperatures in blue and the actual testing data machine temperatures in red.
