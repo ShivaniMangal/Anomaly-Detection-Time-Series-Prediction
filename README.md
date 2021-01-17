@@ -1,4 +1,4 @@
-## PERFORMANCE ANALYSIS FOR ANOMALY DETECTIONIN MACHINE TEMPERATURES TO PREDICT FAILURE
+## PERFORMANCE ANALYSIS FOR ANOMALY DETECTION IN MACHINE TEMPERATURES TO PREDICT FAILURE
 • The data was split into 70% for training which included data from 2013 and few entries from 2014 and remaining 30% for testing, which was that of 2014.
 
 • The first three LSTM layers had 30 units each with a dropout regularization of 20%
