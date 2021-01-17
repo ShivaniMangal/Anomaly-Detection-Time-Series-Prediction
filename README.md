@@ -11,4 +11,5 @@
 
 
 ![Image](ReadMe_Results_Images/Anomaly_Detection.png)
-Graph of predicted machine temperatures in blue and the actual testing data machine temperatures in red.
+
+Predicted machine temperatures in blue, the actual testing data machine temperatures in red.
